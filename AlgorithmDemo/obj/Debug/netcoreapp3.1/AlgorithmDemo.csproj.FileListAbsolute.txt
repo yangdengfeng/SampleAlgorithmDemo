@@ -1,0 +1,13 @@
+D:\Project\AlgorithmDemo\AlgorithmDemo\bin\Debug\netcoreapp3.1\AlgorithmDemo.exe
+D:\Project\AlgorithmDemo\AlgorithmDemo\bin\Debug\netcoreapp3.1\AlgorithmDemo.deps.json
+D:\Project\AlgorithmDemo\AlgorithmDemo\bin\Debug\netcoreapp3.1\AlgorithmDemo.runtimeconfig.json
+D:\Project\AlgorithmDemo\AlgorithmDemo\bin\Debug\netcoreapp3.1\AlgorithmDemo.runtimeconfig.dev.json
+D:\Project\AlgorithmDemo\AlgorithmDemo\bin\Debug\netcoreapp3.1\AlgorithmDemo.dll
+D:\Project\AlgorithmDemo\AlgorithmDemo\bin\Debug\netcoreapp3.1\AlgorithmDemo.pdb
+D:\Project\AlgorithmDemo\AlgorithmDemo\obj\Debug\netcoreapp3.1\AlgorithmDemo.AssemblyInfoInputs.cache
+D:\Project\AlgorithmDemo\AlgorithmDemo\obj\Debug\netcoreapp3.1\AlgorithmDemo.AssemblyInfo.cs
+D:\Project\AlgorithmDemo\AlgorithmDemo\obj\Debug\netcoreapp3.1\AlgorithmDemo.csproj.CoreCompileInputs.cache
+D:\Project\AlgorithmDemo\AlgorithmDemo\obj\Debug\netcoreapp3.1\AlgorithmDemo.dll
+D:\Project\AlgorithmDemo\AlgorithmDemo\obj\Debug\netcoreapp3.1\AlgorithmDemo.pdb
+D:\Project\AlgorithmDemo\AlgorithmDemo\obj\Debug\netcoreapp3.1\AlgorithmDemo.genruntimeconfig.cache
+D:\Project\AlgorithmDemo\AlgorithmDemo\obj\Debug\netcoreapp3.1\AlgorithmDemo.csprojAssemblyReference.cache
